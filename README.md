@@ -1,2 +1,4 @@
 # hello-world
-Początki nauki programowania.
+
+Nazywam się Kasia i lubię małe kotki.
+Lubię również trygonometrię. 
